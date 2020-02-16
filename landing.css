@@ -149,7 +149,7 @@ h1 {
     left: -5.05rem;
 }
 
-.ellipses-container .insidetext {
+.ellipses-container #insidetext {
     position: absolute;
     top: 20rem;
     left: 2rem;
