@@ -16,3 +16,4 @@
 * https://silkthyme.github.io/treehacks2020/landing.html
 * https://christinahuangji.users.earthengine.app/view/snowcoverage
 * https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD10A1
+* https://docs.google.com/presentation/d/1d2RMnldhMfH5P2cLOtqzgwRZkoMW5iSEDu5ZsekKNQE/edit?usp=sharing
