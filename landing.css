@@ -136,6 +136,7 @@ h1 {
     font-weight: 400;
     opacity: 0.5;
 }
+
 .ellipses-container .greeting:after {
     content: '';
     width: 0.3rem;
@@ -147,6 +148,22 @@ h1 {
     top: -0.65rem;
     left: -5.05rem;
 }
+
+.ellipses-container .insidetext {
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+    width: 36rem;
+    right: 0;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 2.5rem;
+    font-size: 1.7rem;
+    letter-spacing: 0.3rem;
+    font-weight: 400;
+    opacity: 0.8;
+}
+
 .ellipses {
     border-radius: 50%;
     position: absolute;
